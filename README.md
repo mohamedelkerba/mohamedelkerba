@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Mohamed 👋</h1>
 
-<!--
-**mohamedelkerba/mohamedelkerba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <a href="[https://twitter.com/mohamed_abusrea](https://www.facebook.com/profile.php?id=100083790041180&mibextid=LQQJ4d)">    <img src="https://img.shields.io/badge/facebook-%231877F2?style=flat&logo=facebook&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/mohamed-gamal-37910b212"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="[https://www.instagram.com/mohamed_abusrea](https://www.instagram.com/muhammad.elkerba/profilecard/?igsh=NWhlbTBwY2RrcjQx)"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+</p>
 
-Here are some ideas to get you started:
+<img src="https://github.com/mohamedelkerba/My-Portfolio/blob/main/assets/images/myPhoto.jpeg" align="right" width="25%"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Flutter and .NET developer** passionate about crafting user-friendly and visually stunning mobile and web applications. I love transforming complex challenges into intuitive solutions, and I enjoy helping new developers grow along their journey.
+
+- 🔭 I'm working on full-stack development using **Flutter** and **.NET**.  
+- 🌍 Based in **Egypt**, I specialize in building cross-platform mobile apps with **Flutter** and backend services using **.NET**.  
+- 🔍 I have multiple projects in the works, More projects coming soon 🚀  
+- 💬 Ask me about **Flutter, .NET, and cross-platform development**.  
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-gamal-37910b212).
