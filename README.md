@@ -6,7 +6,7 @@
     <a href="https://www.instagram.com/muhammad.elkerba/profilecard/?igsh=NWhlbTBwY2RrcjQx"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
 
-<img src="https://github.com/mohamedelkerba/My-Portfolio/blob/main/assets/images/myPhoto.jpeg" align="right" width="25%"/>
+<img src="https://github.com/mohamedelkerba/mohamedelkerba.github.io/blob/main/assets/assets/images/myImage.png" align="right" width="25%"/>
 
 I'm a **Flutter and .NET developer** passionate about crafting user-friendly and visually stunning mobile and web applications. I love transforming complex challenges into intuitive solutions, and I enjoy helping new developers grow along their journey.
 
