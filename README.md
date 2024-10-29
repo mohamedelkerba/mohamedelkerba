@@ -9,10 +9,10 @@
 
 <img src="https://github.com/mohamedelkerba/mohamedelkerba.github.io/blob/main/assets/assets/images/myImage.png" align="right" width="25%"/>
 
-I'm a **Flutter and .NET developer** passionate about crafting user-friendly and visually stunning mobile and web applications. I love transforming complex challenges into intuitive solutions, and I enjoy helping new developers grow along their journey.
+I'm a **Flutter developer** passionate about crafting user-friendly and visually stunning mobile applications. I love transforming complex challenges into intuitive solutions and enjoy helping new developers grow along their journey.
 
-- 🔭 I'm working on full-stack development using **Flutter** and **.NET**.  
-- 🌍 Based in **Egypt**, I specialize in building cross-platform mobile apps with **Flutter** and backend services using **.NET**.  
-- 🔍 I have multiple projects in the works, More projects coming soon 🚀  
-- 💬 Ask me about **Flutter, .NET, and cross-platform development**.  
+- 🔭 I'm currently focused on developing mobile applications using **Flutter**.
+- 🌍 Based in **Egypt**, I specialize in building cross-platform mobile apps to deliver smooth and responsive user experiences.
+- 🔍 I have several projects in the works, and more exciting apps are coming soon 🚀
+- 💬 Ask me about **Flutter** and **cross-platform development**. 
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-gamal-37910b212).
