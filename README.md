@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Mohamed 👋</h1>
 
 <p align="center">
-    <a href="https://www.facebook.com/profile.php?id=100083790041180&mibextid=LQQJ4d"> <img src="https://img.shields.io/badge/facebook-%231877F2?style=flat&logo=facebook&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/mohamed-gamal-37910b212"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.instagram.com/muhammad.elkerba/profilecard/?igsh=NWhlbTBwY2RrcjQx"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
 <a href="https://mohamedelkerba.github.io/" target="_blank"><img src="https://img.shields.io/badge/mywebsite-%23000000?style=flat&logo=internet-explorer&logoColor=white" alt="Website Badge"></a>
 </p>
 
